@@ -1,0 +1,26 @@
+{
+  "folders": [
+	{
+		"path": "../Heaps"
+	},
+	{
+		"path": "../Harshing"
+	},
+	{
+		"path": "../FULLSTACK DEVELOPMENT"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "cloudcode.duetAI.enable": true,
+    "cloudcode.enableConfigLessExperience": false,
+    "cloudcode.verboseLogging": true,
+    "cloudcode.yaml.format.singleQuote": false,
+    "liveServer.settings.multiRootWorkspaceName": "FULLSTACK DEVELOPMENT"
+  },
+  "extensions": {
+    "recommendations": ["googlecloudtools.cloudcode"]
+  }
+}
